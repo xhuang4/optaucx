@@ -1,0 +1,12 @@
+Package: optAUCX
+Type: Package
+Title: Subgroup Identification Using Optimal Combination of Biomarkers Based on AUC/ABC.
+Version: 0.5
+Author: Xin Huang, Yan Sun, Lu Tian, Saptarshi Chatterjee, Viswanath Devanarayan.
+Maintainer: Xin Huang <xin.huang@abbvie.com>
+Description: A package for subgroup identification using composite score based biomarker signatures via BATTing and Youden scores.
+License: Proprietary by Exploratory Statistics, AbbVie Inc.(internal evaluation only)
+Depends: R (>= 2.1.0), MASS, glmnet, ggplot2, rpart
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
